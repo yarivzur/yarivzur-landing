@@ -1,10 +1,1 @@
-{
-  "redirects": [
-    {
-      "source": "/:path*",
-      "has": [{ "type": "host", "value": "www.yarivzur.com" }],
-      "destination": "https://yarivzur.com/:path*",
-      "permanent": true
-    }
-  ]
-}
+{}
